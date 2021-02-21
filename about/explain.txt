@@ -1,0 +1,1 @@
+este é um arquivo de tutorial de como upar uma pasta via git bash, ao github
