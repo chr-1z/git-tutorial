@@ -4,7 +4,7 @@
 
   ​	- git remote add origin + "LINK COPIADO NA PÁGINA DO REPOSITÓRIO" 
 
-  -	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
+- - -	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-	-
 
 * Atualizar um repositório existente:
 
